@@ -37,10 +37,6 @@ h2 {
   color: #dcdde6;
 }
 
-p {
-  font-family: sans-serif;
-}
-
 h3 {
   vertical-align: middle;
   text-align: center;
@@ -52,6 +48,18 @@ h3 {
   padding-right: 4px;
   padding-left: 4px;
   max-width: 200px;
+}
+
+/* Section and article headings */
+h4 {
+  text-align: center;
+  margin: 0 auto;
+  padding: 14px;
+  max-width: 400px;
+}
+
+p {
+  font-family: sans-serif;
 }
 
 /* Link coloring and interaction */
